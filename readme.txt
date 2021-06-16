@@ -1,1 +1,2 @@
-This is a samplefile created for jenkins learning
+This is a sample file 
+created for jenkins learning
